@@ -1,2 +1,3 @@
 # hello-world
-new repository
+this is my first course of data sciences
+
